@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "HAPPY SHOP"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7b059b7c-0e3f-40ce-955d-04c427c76560"
+  }
+}
